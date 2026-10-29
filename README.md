@@ -206,15 +206,17 @@ A responsive application that retrieves city-based weather information.
 
 <p align="center">
   <a href="https://www.codechef.com/users/harsha_812">
-    <img src="https://codechef-stats.tashif.codes/harsha_812/stats/svg?theme=dark" alt="CodeChef Statistics"/>
+    <img src="https://img.shields.io/badge/CodeChef-View%20My%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
   </a>
 </p>
 
-**Explore my CodeChef profile:**
-- 💻 [Solved problems and practice history](https://www.codechef.com/users/harsha_812)
-- 🏆 [CodeChef contests](https://www.codechef.com/contests/)
+<p align="center">
+  <a href="https://www.codechef.com/users/harsha_812">💻 Solved Problems & Practice History</a>
+  •
+  <a href="https://www.codechef.com/contests/">🏆 CodeChef Contests</a>
+</p>
 
-*Note: Stats cards depend on third-party services and may occasionally be unavailable or delayed. Visit the original profiles for the latest figures and individual problem titles.*
+*Visit my official CodeChef profile for the latest problem-solving statistics, contest ratings, and practice history.*
 
 ---
 
