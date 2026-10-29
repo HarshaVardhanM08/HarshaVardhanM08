@@ -225,26 +225,6 @@ A responsive application that retrieves city-based weather information.
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaVardhanM08&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshaVardhanM08&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
-
-## 📈 GitHub Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaVardhanM08&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshaVardhanM08&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ## 🎓 Certifications
