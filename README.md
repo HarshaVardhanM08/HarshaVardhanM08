@@ -221,8 +221,7 @@ A responsive application that retrieves city-based weather information.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HarshaVardhanM08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaVardhanM08&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://streak-stats.demolab.com?user=HarshaVardhanM08&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
