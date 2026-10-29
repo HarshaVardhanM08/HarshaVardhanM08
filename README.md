@@ -4,7 +4,9 @@
 <p align="center">
   <a href="https://harsha-portfolio.pages.dev/">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/harshavardhan-maradana/">💼 LinkedIn</a> •
-  <a href="https://github.com/HarshaVardhanM08">💻 GitHub</a>
+  <a href="https://github.com/HarshaVardhanM08">💻 GitHub</a> •
+  <a href="https://leetcode.com/u/C8Pj37jMGX/">🧩 LeetCode</a> •
+  <a href="https://www.codechef.com/users/harsha_812">🍴 CodeChef</a>
 </p>
 
 <p align="center">
@@ -17,17 +19,17 @@
 
 🎓 I'm a **3rd-year B.Tech student in Computer Science & Engineering (Artificial Intelligence)** at Vignan's Institute of Information Technology.
 
-- 🔭 Exploring the world of Artificial Intelligence and Machine Learning.
-- 🌱 Currently learning **Data Science, NLP, and Full-Stack Development**.
+- 🔭 Exploring Artificial Intelligence and Machine Learning.
+- 🌱 Learning Data Science, Natural Language Processing, and Full-Stack Development.
 - 🤖 Interested in building AI-powered applications and intelligent systems.
-- 💻 Experienced with Python, Java, C, JavaScript, and modern web technologies.
+- 💻 Working with Python, Java, C, JavaScript, and modern web technologies.
+- 🧠 Practicing Data Structures and Algorithms through coding challenges.
 - 👯 Open to collaborating on AI/ML, Data Science, and Web Development projects.
-- 🧠 Enjoy solving coding challenges and improving my problem-solving skills.
 - 🎮 Interested in game development and interactive applications.
 - ♟️ Hobby: Playing chess.
 - 📍 Visakhapatnam, Andhra Pradesh, India.
 
-📄 Check out my **[Portfolio](https://harsha-portfolio.pages.dev/)** to explore my work!
+📄 Explore my **[Portfolio](https://harsha-portfolio.pages.dev/)** to learn more about my work.
 
 ---
 
@@ -42,14 +44,14 @@
 ### 🤖 AI, Machine Learning & Data Science
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prophet-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Prophet-222222?style=for-the-badge" alt="Prophet"/>
 </p>
 
 **Concepts:** Machine Learning, Natural Language Processing, TF-IDF, Cosine Similarity, Logistic Regression, Linear Regression, Predictive Analytics, Feature Engineering, and Time-Series Forecasting.
@@ -57,65 +59,68 @@
 ### 🌐 Web & Full-Stack Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,ts,nodejs,postgres,firebase,supabase" alt="Web Development Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,ts,nodejs" alt="Web Development Technologies"/>
 </p>
 
-**Additional technologies:** REST APIs, Prisma ORM, Chart.js, Responsive UI Development.
+**Additional technologies:** REST APIs, Prisma ORM, Chart.js, and Responsive UI Development.
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" alt="Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,supabase" alt="Database Technologies"/>
 </p>
 
-### ⚙️ IDEs & Developer Tools
+### ⚙️ Developer Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer Tools"/>
 </p>
 
-**Also use:** Streamlit, GitHub Pages, and VS Code.
+**Also use:** Streamlit and GitHub Pages.
 
 ---
 
 ## 🚀 Featured Projects
 
+### 💪 [FitLife Pro — AI-Powered Fitness & Diet Coach](https://fitlife-pro-web.netlify.app/)
+
+An AI-powered fitness and diet coaching website designed to help users explore fitness guidance, nutrition recommendations, and wellness tools.
+
+**Key Features:**
+- 💪 BMI calculator and fitness guidance.
+- 🥗 Diet recommendations and nutrition-related features.
+- 🤖 AI chatbot for fitness-related assistance.
+- 📱 Responsive interface across devices.
+
+**Live Website:** [FitLife Pro](https://fitlife-pro-web.netlify.app/)
+
 ### 🎵 [Harxora Vibez — Offline Music Player](https://github.com/HarshaVardhanM08/harxora-vibez)
 
-A modern, privacy-focused, offline-first music player and installable Progressive Web App.
+An offline-first music player and installable Progressive Web App.
 
 **Key Features:**
 - 🎧 Offline music playback and personal music library.
 - 📂 Playlist and queue management.
 - 📝 Synchronized lyrics with automatic scrolling.
-- 💾 Local storage using IndexedDB.
+- 💾 Local music data using IndexedDB.
 - 📱 Responsive experience across devices.
 
 **Tech Stack:** HTML5, CSS3, JavaScript, IndexedDB, Web Audio API.
-
-### 💼 [Edu2Employ — From Education to Employment](https://github.com/HarshaVardhanM08)
-
-A career-readiness platform concept designed to connect academic learning with industry skill requirements.
-
-**Planned Features:**
-- 🎯 Student profiles and skill development.
-- 📚 Personalized learning roadmaps.
-- 📊 Skill assessments and career portfolios.
-- 💼 Job and internship management.
-
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS, Node.js, PostgreSQL, Prisma ORM, Supabase.
-
-*Note: The project is under local development; public deployment is pending.*
 
 ### 🏛️ [Public Issue Management System (PIMS)](https://github.com/HarshaVardhanM08/PIMS-Public-Issue-Management-System)
 
 A civic technology project focused on digital public-issue reporting and management.
 
-**Focus:** Digital grievance management and public-issue tracking.
+**Focus:**
+- 🏙️ Digital grievance management.
+- 📝 Public-issue reporting.
+- 📋 Issue tracking and management.
+
+**Live Website:** [PIMS](https://public-issue-management-system.netlify.app/)
 
 ### 🤖 AI Resume Screening & Job Matching Dashboard
 
-An NLP-based application that evaluates the relevance of resumes to job descriptions.
+An NLP-based application designed to evaluate the relevance of resumes to job descriptions.
 
 **Key Features:**
 - 📄 Resume and job-description text processing.
@@ -138,13 +143,13 @@ An interactive dashboard for analyzing sales trends and generating forecasts.
 
 ### 🎫 Support Ticket Classification System
 
-A machine learning application that automatically categorizes support tickets using text classification.
+A machine-learning application designed to categorize support tickets using text classification.
 
 **Tech Stack:** Python, Scikit-learn, Streamlit, TF-IDF, Logistic Regression.
 
-### 🎮 [Neon Tic Tac Toe](https://github.com/HarshaVardhanM08/neon-tic-tac-toe-web-game)
+### 🎮 [Neon Tic-Tac-Toe](https://github.com/HarshaVardhanM08/neon-tic-tac-toe-web-game)
 
-A modern browser game featuring AI opponents and multiple difficulty levels.
+A browser game featuring AI opponents and Player vs. Player gameplay.
 
 **Key Features:**
 - 🤖 AI vs. Human gameplay.
@@ -168,16 +173,55 @@ A browser-based implementation of the classic 2048 puzzle game.
 
 ### 🌦️ Weather Forecast Web Application
 
-A responsive weather application that retrieves city-based weather information.
+A responsive application that retrieves city-based weather information.
 
 **Tech Stack:** HTML5, CSS3, JavaScript, OpenWeather API.
+
+---
+
+## 🧠 Competitive Programming & DSA
+
+<p align="center">
+  <a href="https://leetcode.com/u/C8Pj37jMGX/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+  <a href="https://www.codechef.com/users/harsha_812">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+  </a>
+</p>
+
+### 🟠 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/C8Pj37jMGX/">
+    <img src="https://leetcard.jacoblin.cool/C8Pj37jMGX?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Statistics and Submission Heatmap"/>
+  </a>
+</p>
+
+**Explore my LeetCode profile:**
+- 🧩 [Solved problems and problem submissions](https://leetcode.com/u/C8Pj37jMGX/)
+- 📚 [Browse LeetCode problems](https://leetcode.com/problemset/)
+
+### 🍴 CodeChef
+
+<p align="center">
+  <a href="https://www.codechef.com/users/harsha_812">
+    <img src="https://codechef-stats.tashif.codes/harsha_812/stats/svg?theme=dark" alt="CodeChef Statistics"/>
+  </a>
+</p>
+
+**Explore my CodeChef profile:**
+- 💻 [Solved problems and practice history](https://www.codechef.com/users/harsha_812)
+- 🏆 [CodeChef contests](https://www.codechef.com/contests/)
+
+*Note: Stats cards depend on third-party services and may occasionally be unavailable or delayed. Visit the original profiles for the latest figures and individual problem titles.*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HarshaVardhanM08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Harsha's GitHub Statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HarshaVardhanM08&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaVardhanM08&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
@@ -187,10 +231,10 @@ A responsive weather application that retrieves city-based weather information.
 
 ---
 
-## 📈 Contribution Activity
+## 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaVardhanM08&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshaVardhanM08&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
@@ -198,20 +242,20 @@ A responsive weather application that retrieves city-based weather information.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarshaVardhanM08&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HarshaVardhanM08&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ## 🎓 Certifications
 
-- 🐍 Python Programming — GeeksforGeeks
-- ☕ Java Programming Fundamentals — Infosys Springboard
-- 💡 C Essentials 1 — Cisco Networking Academy
-- 🎨 CSS Essentials — Cisco Networking Academy
-- 🌐 Introduction to HTML — Coursera Project Network
-- 🤖 Prompt Engineering for Everyone — Cognitive Class
-- 💻 Contentstack 101 Developer Course — Contentstack
+- 🐍 Python Programming — GeeksforGeeks.
+- ☕ Java Programming Fundamentals — Infosys Springboard.
+- 💡 C Essentials 1 — Cisco Networking Academy.
+- 🎨 CSS Essentials — Cisco Networking Academy.
+- 🌐 Introduction to HTML — Coursera Project Network.
+- 🤖 Prompt Engineering for Everyone — Cognitive Class.
+- 💻 Contentstack 101 Developer Course — Contentstack.
 
 ---
 
@@ -235,6 +279,12 @@ A responsive weather application that retrieves city-based weather information.
   <a href="https://harsha-portfolio.pages.dev/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://leetcode.com/u/C8Pj37jMGX/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.codechef.com/users/harsha_812">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
   <a href="mailto:harshavardhan.maradana08@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -245,7 +295,7 @@ A responsive weather application that retrieves city-based weather information.
 ## 💭 Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
 
 ---
